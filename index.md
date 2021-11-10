@@ -50,6 +50,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 Check SWC curriculum
 {% endcomment %}
 
+{% comment %}
 {% if site.carpentry == "swc" %}
 {% unless site.curriculum == "swc-inflammation" or site.curriculum == "swc-gapminder" %}
 <div class="alert alert-warning">
@@ -57,6 +58,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 </div>
 {% endunless %}
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 EVENTBRITE
