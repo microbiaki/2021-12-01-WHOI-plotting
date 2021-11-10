@@ -36,6 +36,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 Check DC curriculum
 {% endcomment %}
 
+{% comment %}
 {% if site.carpentry == "dc" %}
 {% unless site.curriculum == "dc-astronomy" or site.curriculum == "dc-ecology" or site.curriculum == "dc-genomics" or site.curriculum == "dc-socsci" or site.curriculum == "dc-geospatial" %}
 <div class="alert alert-warning">
@@ -43,6 +44,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 </div>
 {% endunless %}
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 Check SWC curriculum
