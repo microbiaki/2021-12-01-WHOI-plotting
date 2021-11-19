@@ -353,8 +353,10 @@ USEFUL MATERIAL
 {% endcomment %}
 <h2 id="Useful Material">Useful Material</h2>
 <p>The following material might be useful.</p>
+<p><a href="https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf">Data Visualization with ggplot2 Cheatsheet</a></p>
 <p><a href="https://drive.google.com/file/d/12Kolme3JRn6FZOm2xDTv1y748CzwfD12/view?usp=sharing">Base R Cheat sheet</a></p>
 <p><a href="https://drive.google.com/file/d/1wijkEpVaOUu_9PfUFeDHtOR_50v4sUls/view?usp=sharing">R Language Definition</a></p>
+
 
 
 <hr/>
