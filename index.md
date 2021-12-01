@@ -349,6 +349,13 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 <hr/>
 {% comment %}
+WORKSHOP TUTORIAL
+{% endcomment %}
+<h2 id="Workshop Tutorial">Workshop Tutorial</h2>
+<p><a href="https://microbiaki.github.io/workshop_t2/">Plotting in R</a></p>
+<hr/>
+
+{% comment %}
 USEFUL MATERIAL
 {% endcomment %}
 <h2 id="Useful Material">Useful Material</h2>
